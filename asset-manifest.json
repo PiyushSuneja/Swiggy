@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Swiggy/static/css/main.0400d3da.chunk.css",
+    "main.js": "/Swiggy/static/js/main.eb6ed971.chunk.js",
+    "main.js.map": "/Swiggy/static/js/main.eb6ed971.chunk.js.map",
+    "runtime-main.js": "/Swiggy/static/js/runtime-main.c4ab5422.js",
+    "runtime-main.js.map": "/Swiggy/static/js/runtime-main.c4ab5422.js.map",
+    "static/js/2.d5da38f6.chunk.js": "/Swiggy/static/js/2.d5da38f6.chunk.js",
+    "static/js/2.d5da38f6.chunk.js.map": "/Swiggy/static/js/2.d5da38f6.chunk.js.map",
+    "static/js/3.9d9b0b39.chunk.js": "/Swiggy/static/js/3.9d9b0b39.chunk.js",
+    "static/js/3.9d9b0b39.chunk.js.map": "/Swiggy/static/js/3.9d9b0b39.chunk.js.map",
+    "index.html": "/Swiggy/index.html",
+    "static/css/main.0400d3da.chunk.css.map": "/Swiggy/static/css/main.0400d3da.chunk.css.map",
+    "static/js/2.d5da38f6.chunk.js.LICENSE.txt": "/Swiggy/static/js/2.d5da38f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4ab5422.js",
+    "static/js/2.d5da38f6.chunk.js",
+    "static/css/main.0400d3da.chunk.css",
+    "static/js/main.eb6ed971.chunk.js"
+  ]
+}

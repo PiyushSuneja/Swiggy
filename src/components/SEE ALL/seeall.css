@@ -1,0 +1,11 @@
+.seeall{
+    display: flex;
+    flex-direction: row;
+    border: 10px solid green;
+    
+   
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}

@@ -1,0 +1,44 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 260px;
+    width: 260px;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
+    
+}
+.card:hover{
+  height: 250px;
+  width: 270px;
+  transition-timing-function: linear;
+  border: 2px solid black;
+}
+.image{
+     height: 160px;
+     width: 200px;
+     margin-top: 5px;
+}
+.food_lists{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 260px;
+}
+   
+ .hidd{
+    display: none;
+
+} 
+ .card:hover  .hidd{
+     display: block;
+ } 
+ .bottom{
+
+    display: grid;
+    grid-template-columns: 2fr 3fr 7fr;
+    margin-left: 20px;
+    font-size: 15px;
+
+ }

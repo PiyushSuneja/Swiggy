@@ -1,0 +1,14 @@
+.sidebar{
+  position: fixed;
+  
+}
+
+.buttons{
+      display: flex;
+      flex-direction: column;
+    border: 10px solid red;
+    
+}
+.active{
+  background-color: yellow;
+}
